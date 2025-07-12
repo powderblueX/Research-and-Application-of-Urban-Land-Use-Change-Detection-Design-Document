@@ -88,9 +88,3 @@ cd KAN-Test/integration_level
 - 随机森林
 
 模型训练脚本位于`baselineModels`目录中。
-
-## 许可证
-本项目采用MIT许可证 - 详见LICENSE文件。
-
-## 联系方式
-如有问题或需要支持，请联系开发团队：contact@seme-system.com
